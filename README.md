@@ -1,4 +1,4 @@
-# GymSpotter landing page
+# Repzy landing page
 
 A small React + Vite site, separate from AI_GYM_TRAINER.
 
